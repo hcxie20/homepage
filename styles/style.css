@@ -1,0 +1,44 @@
+/* {
+    #A04832
+    #39312E
+} */
+.navbar{
+    background: #39312E;
+}
+
+.nav:hover{
+    color: red;
+    background: blue;
+}
+
+.title{
+    font-size: 2rem;
+}
+
+.my-info{
+    width: 70%;
+    padding: 10px;
+}
+
+.container{
+    border: 1px solid black;
+    border: none;
+}
+
+body{
+    background: #ededed;
+}
+
+.body{
+    padding-top: 20px;
+}
+
+.list-group-item{
+    padding: 1px;
+}
+
+i{
+    font-size: 0.1rem;
+    margin: 3px;
+}
+
