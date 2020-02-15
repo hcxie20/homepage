@@ -49,3 +49,19 @@ i{
 .skill{
     font-weight: 700;
 }
+
+.info-title{
+    font-weight: 600;
+}
+
+.links{
+    margin: 4px;
+    height: 10px;
+    border: 1px solid black;
+    border-radius:10px;
+}
+
+img.other-sites{
+    width: auto;
+    height: 20px;
+}
